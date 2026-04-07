@@ -1,4 +1,4 @@
-module github.com/zhangjiayin/caddy-geoip2
+module github.com/darktohka/caddy-geoip2
 
 go 1.24
 
